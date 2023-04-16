@@ -15,16 +15,16 @@ The database contains three tables
 
 ## 1. Staff table
 
-![stafftable](stafftable.JPG)
+![stafftable](images/stafftable.JPG)
 
 ## 2. Customer table
 
-![stafftable](customertable.JPG)
+![stafftable](images/customertable.JPG)
 
 ## 3. Sales table
 
-![stafftable](salestable.JPG)
+![stafftable](images/salestable.JPG)
 
 Some of the queries can be seen in the image below
 
-![stafftable](SomeQueries.JPG)
+![stafftable](images/SomeQueries.JPG)
