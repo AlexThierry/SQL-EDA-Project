@@ -7,7 +7,7 @@ This project permits us to explore data by writing some SQL queries and get some
 2. The file "Database Creation" contains the code to run and create the database and tables required to answer the questions.
 3. The file "Queries" contains all the queries that answer the questions in the mentioned file above.
 
-The Database Management Software (DBMS) used is ***MySQL***.
+The Database Management System (DBMS) used is ***MySQL***.
 
 ---
 
